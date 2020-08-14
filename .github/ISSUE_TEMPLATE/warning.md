@@ -7,4 +7,4 @@ assignees: ''
 
 ---
 
-请不要在本仓库提交issue，提交issue请移步：https://github.com/avwo/whistle/issues ，谢谢合作！
+本仓库的issue主要记录一些whistle常见应用及问题集供用户参考，请不要私自提issue影响他人查看，如需提交issue请移步：https://github.com/avwo/whistle/issues ，谢谢合作！

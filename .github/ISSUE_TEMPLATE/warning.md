@@ -1,6 +1,6 @@
 ---
-name: 请不要在此提issue，提issue请移步：https://github.com/avwo/whistle/issues
-about: 谢谢合作
+name: 官方维护的whistle常见应用及问题集，请勿在此提issue.
+about: 提issue请移步：https://github.com/avwo/whistle/issues
 title: ''
 labels: ''
 assignees: ''
